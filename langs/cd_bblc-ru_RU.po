@@ -1,0 +1,140 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CD BuddyBar Logo Changer 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-01-09 15:12+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: slaFFik <slaffik@list.ru>\n"
+"Language-Team: slaFFik <slaffik@list.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: G:\\Webservers\\home\\my_plugins\\cd-buddybar-logo-changer\\2.0\\\n"
+"X-Poedit-SearchPath-0: G:\\Webservers\\home\\my_plugins\\cd-buddybar-logo-changer\\2.0\n"
+
+#: G:\Webservers\home\my_plugins\cd-buddybar-logo-changer\2.0/cd-bblc.php:16
+msgid "NetWork"
+msgstr "Сеть"
+
+#: G:\Webservers\home\my_plugins\cd-buddybar-logo-changer\2.0/cd-bblc.php:34
+msgid "Logo Changer"
+msgstr "Изменение лого"
+
+#: G:\Webservers\home\my_plugins\cd-buddybar-logo-changer\2.0/cd-bblc.php:88
+msgid "Options updated."
+msgstr "Настройки сохранены."
+
+#: G:\Webservers\home\my_plugins\cd-buddybar-logo-changer\2.0/cd-bblc.php:92
+msgid "CD BuddyBar Logo Changer"
+msgstr "CD BuddyBar Logo Changer"
+
+#: G:\Webservers\home\my_plugins\cd-buddybar-logo-changer\2.0/cd-bblc.php:95
+msgid "Choose here, what do you want to show instead of the default sitename in BuddyBar - logo or your own text (i.e.: NetWork).<br>You can control the link (in case you want to redirect users not to the main page) and even add some javascript code!<br><strong>NOTE:</strong> To disable some feature (displaying text or image, using js code) - just leave the appropriate field blank.<br>P.S. For js-coders - link is having id=\"admin-bar-logo\"."
+msgstr "Вы можете выбрать здесь, что вы хотите отображать вместо стандартного названия сайта в BuddyBar - ваш логотип или собственный текст (например, Сеть).<br>Вы также можете настроить путь ссылки (в случае, если вы хотите перенаправлять пользователей не на главную страницу, а куда-либо еще) и даже добавить javascript код!<br><strong>ЗАМЕЧАНИЕ:</strong> Чтобы отменить использование какой-нибудь функции (отображение текста или рисунка, использование js кода) - просто оставьте соответствующие поля пустыми.<br>P.S. Для js-кодеров - ссылка иммет id=\"admin-bar-logo\"."
+
+#: G:\Webservers\home\my_plugins\cd-buddybar-logo-changer\2.0/cd-bblc.php:100
+msgid "Let's make some changes:"
+msgstr "Давайте внесем необходимые изменения:"
+
+#: G:\Webservers\home\my_plugins\cd-buddybar-logo-changer\2.0/cd-bblc.php:103
+msgid "Logo changer enabled"
+msgstr "Изменение лого"
+
+#: G:\Webservers\home\my_plugins\cd-buddybar-logo-changer\2.0/cd-bblc.php:106
+msgid "Turn on the BuddyBar Logo changer."
+msgstr "Включить возможность изменить лого в BuddyBar"
+
+#: G:\Webservers\home\my_plugins\cd-buddybar-logo-changer\2.0/cd-bblc.php:110
+msgid "Logo Link"
+msgstr "Ссылка лого"
+
+#: G:\Webservers\home\my_plugins\cd-buddybar-logo-changer\2.0/cd-bblc.php:114
+msgid "Type here that url you want to use instead of the default main page link. <br>Do not leave this field blank - url MUST be typed."
+msgstr "Введите здесь url ссылки, которую вы хотите использовать вместо стандартной ссылки на главную страницу. <br>Не оставляйте это поле пустым - ссылка ДОЛЖНА быть введена."
+
+#: G:\Webservers\home\my_plugins\cd-buddybar-logo-changer\2.0/cd-bblc.php:118
+msgid "Logo Type"
+msgstr "Тип лого"
+
+#: G:\Webservers\home\my_plugins\cd-buddybar-logo-changer\2.0/cd-bblc.php:121
+msgid "Text"
+msgstr "Текст"
+
+#: G:\Webservers\home\my_plugins\cd-buddybar-logo-changer\2.0/cd-bblc.php:122
+msgid "Image"
+msgstr "Рисунок"
+
+#: G:\Webservers\home\my_plugins\cd-buddybar-logo-changer\2.0/cd-bblc.php:124
+msgid "What would you like to use - text or image - in BuddyBar as your logo?"
+msgstr "Что вы хотите использовать - текст или рисунок в качестве логотипа в BuddyBar?"
+
+#: G:\Webservers\home\my_plugins\cd-buddybar-logo-changer\2.0/cd-bblc.php:128
+msgid "Logo Text"
+msgstr "Текст лого"
+
+#: G:\Webservers\home\my_plugins\cd-buddybar-logo-changer\2.0/cd-bblc.php:132
+msgid "Type here that text you want to display instead of the default SiteName: "
+msgstr "Введите здесь тот текст, который вы хотите использовать вместо вашего названия сайта: "
+
+#: G:\Webservers\home\my_plugins\cd-buddybar-logo-changer\2.0/cd-bblc.php:138
+msgid "Logo Image path"
+msgstr "Путь к рисунку лого"
+
+#: G:\Webservers\home\my_plugins\cd-buddybar-logo-changer\2.0/cd-bblc.php:142
+msgid "Full web path to your image (no more than 20px in height), i.e.: http://example.com/images/buddylogo.png<br>Use white text (if any exists) color and transparent background on your image."
+msgstr "Полный путь к вашему рисунку (размер рисунка - не более 20px в высоту), например: http://demo.cosydale.com/images/buddy.png<br>Используйте белый цвет для текста рисунка (если текст присутствует) и прозрачный фон."
+
+#: G:\Webservers\home\my_plugins\cd-buddybar-logo-changer\2.0/cd-bblc.php:146
+msgid "JS usage"
+msgstr "Использование JS"
+
+#: G:\Webservers\home\my_plugins\cd-buddybar-logo-changer\2.0/cd-bblc.php:149
+msgid "ON - I will use js"
+msgstr "Включить - Я буду использовать js"
+
+#: G:\Webservers\home\my_plugins\cd-buddybar-logo-changer\2.0/cd-bblc.php:150
+msgid "OFF - I will NOT use js"
+msgstr "Выключить - Я НЕ буду использовать js"
+
+#: G:\Webservers\home\my_plugins\cd-buddybar-logo-changer\2.0/cd-bblc.php:152
+msgid "It's OFF by default. Don't use it, if you don't know what to do with all fields below."
+msgstr "Выключено по умолчанию. Не используйте, если не знаете, что вводить в поля ниже."
+
+#: G:\Webservers\home\my_plugins\cd-buddybar-logo-changer\2.0/cd-bblc.php:156
+msgid "onMouseOver JS effect"
+msgstr "JS эффект onMouseOver"
+
+#: G:\Webservers\home\my_plugins\cd-buddybar-logo-changer\2.0/cd-bblc.php:160
+msgid "This code will be added to the link, i.e.: this.style.fontWeight='bold';"
+msgstr "Этот код добавляет js-событие к ссылке, например: this.style.fontWeight='bold';"
+
+#: G:\Webservers\home\my_plugins\cd-buddybar-logo-changer\2.0/cd-bblc.php:164
+msgid "onMouseOut JS effect"
+msgstr "JS эффект onMouseOut"
+
+#: G:\Webservers\home\my_plugins\cd-buddybar-logo-changer\2.0/cd-bblc.php:168
+msgid "This code will be added to the link, i.e.: this.style.fontWeight='normal';"
+msgstr "Этот код добавляет js-событие к ссылке, например: this.style.fontWeight='normal';"
+
+#: G:\Webservers\home\my_plugins\cd-buddybar-logo-changer\2.0/cd-bblc.php:172
+msgid "onClick JS effect"
+msgstr "JS эффект onClick"
+
+#: G:\Webservers\home\my_plugins\cd-buddybar-logo-changer\2.0/cd-bblc.php:176
+msgid "This code will be added to the link, i.e.: alert('Go to the main page!');return true"
+msgstr "Этот код добавляет js-событие к ссылке, например: alert('Переход на другую страницу!');return true"
+
+#: G:\Webservers\home\my_plugins\cd-buddybar-logo-changer\2.0/cd-bblc.php:181
+msgid "Save Settings"
+msgstr "Сохранить изменения"
+
+#~ msgid ""
+#~ "Choose here, what do you want to show instead of default sitename in "
+#~ "BuddyBar - logo or your own text (i.e.: NetWork)."
+#~ msgstr ""
+#~ "Выберите, что вы хотите отображать в BuddyBar вместо стандартного "
+#~ "названия сайта - ваш логотип или собственный текст (например: Сеть)."
+
